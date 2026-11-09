@@ -163,7 +163,7 @@ button {
   font-style: normal;
   margin-top: 8px;
   letter-spacing: 0.5px;
-  color: #a1a699;
+  color: #6f7a66;
 }
 main {
   margin-left: 240px;
@@ -240,7 +240,7 @@ h1 {
   color: #2d3c2e;
 }
 .subtitle {
-  color: #8b9086;
+  color: #6f7a66;
   font-size: 12px;
   line-height: 1.7;
   margin: 13px 0 0;
@@ -292,7 +292,7 @@ h1 {
 }
 .stat p {
   font-size: 10px;
-  color: #9a9e94;
+  color: #6f7a66;
   margin: 9px 0 0;
 }
 .panel {
@@ -332,7 +332,7 @@ h1 {
 .panel-heading p,
 .section-intro p {
   font-size: 11px;
-  color: #94998e;
+  color: #6f7a66;
   margin: 8px 0 0;
   line-height: 1.6;
 }
@@ -397,11 +397,11 @@ h1 {
   outline-offset: 1px;
 }
 .search-label input::placeholder {
-  color: #a5ac9c;
+  color: #6f7a66;
 }
 .table-toolbar > span {
   font-size: 10px;
-  color: #949e89;
+  color: #6f7a66;
 }
 .table-scroll {
   overflow-x: auto;
@@ -417,7 +417,7 @@ th {
   font-size: 8px;
   letter-spacing: 1.4px;
   font-weight: 600;
-  color: #a0a795;
+  color: #6f7a66;
   background: #fafbf8;
   border-top: 1px solid var(--line);
   border-bottom: 1px solid var(--line);
@@ -474,18 +474,18 @@ input[type="checkbox"] {
 .session-cell small {
   display: block;
   font-size: 10px;
-  color: #9aa08f;
+  color: #6f7a66;
   margin-top: 7px;
 }
 .muted {
-  color: #a0a795;
+  color: #6f7a66;
 }
 .chunk-label {
   font-size: 11px;
   color: #637058;
 }
 .chunk-label span {
-  color: #a0a792;
+  color: #6f7a66;
   font-size: 10px;
   margin-left: 3px;
 }
@@ -520,7 +520,7 @@ input[type="checkbox"] {
   align-items: center;
   gap: 8px;
   font-size: 9px;
-  color: #a0a795;
+  color: #6f7a66;
   line-height: 1.6;
 }
 .table-foot svg {
@@ -565,7 +565,7 @@ input[type="checkbox"] {
   justify-content: center;
   gap: 6px;
   font-size: 9px;
-  color: #a6ad9b;
+  color: #6f7a66;
   line-height: 1.5;
   margin-top: 16px;
   overflow-wrap: anywhere;
@@ -578,7 +578,7 @@ input[type="checkbox"] {
   padding: 24px 0 25px;
   margin-top: 39px;
   font-size: 9px;
-  color: #a4ab9b;
+  color: #6f7a66;
 }
 .content-footer > span:first-child {
   letter-spacing: 1.3px;
@@ -679,7 +679,7 @@ input[type="checkbox"] {
   justify-content: space-between;
   font-size: 10px;
   margin-top: 10px;
-  color: #9ca58f;
+  color: #6f7a66;
   gap: 15px;
 }
 .queue-bottom {
@@ -727,7 +727,7 @@ input[type="checkbox"] {
   font-size: 10px;
   line-height: 1.9;
   margin: 7px 0 0;
-  color: #9da68f;
+  color: #6f7a66;
   overflow-wrap: anywhere;
 }
 .tip code {
@@ -757,7 +757,7 @@ input[type="checkbox"] {
 }
 .empty p {
   font-size: 11px;
-  color: #a0a792;
+  color: #6f7a66;
   line-height: 1.8;
   margin: 0 auto 23px;
   max-width: 360px;
@@ -843,7 +843,7 @@ input[type="checkbox"] {
 }
 .form-grid small {
   font-size: 9px;
-  color: #a0aa92;
+  color: #6f7a66;
   line-height: 1.6;
 }
 .settings-panel details {
@@ -985,7 +985,7 @@ input[type="checkbox"] {
 }
 .video-body p {
   font-size: 10px;
-  color: #9fa88f;
+  color: #6f7a66;
   margin: 11px 0 18px;
 }
 .video-body p span {

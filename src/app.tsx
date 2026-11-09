@@ -534,7 +534,14 @@ function App() {
                                       <small>
                                         {date(job.start, zone, "time")}{" "}
                                         <span className="muted">→</span>{" "}
-                                        {date(job.lastChunk, zone, "time")}
+                                        {date(
+                                          job.lastChunk,
+                                          zone,
+                                          date(job.start, zone, "day") ===
+                                            date(job.lastChunk, zone, "day")
+                                            ? "time"
+                                            : "full",
+                                        )}
                                       </small>
                                     </span>
                                   </div>
